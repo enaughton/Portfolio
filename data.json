@@ -122,6 +122,23 @@
                 "../static/Image/6/1.png",
                 "../static/Image/6/2.png"
             ]
+        },
+
+        {
+            "id": "6",
+            "project_name": "React Gallery App",
+            "description": "A React App that uses the Flickr API to display photos with Search",
+            "technologies": [
+              "React",
+              "Javascript",
+              "Netlify Deploy"
+            ],
+            "live_link": "https://enaughton.github.io/React-Gallery",
+            "github_link": "https://affectionate-keller-c3ddda.netlify.com/",
+            "image_url": [
+                "../static/Image/7/thumbnail.png"
+                
+            ]
         }
 
 
