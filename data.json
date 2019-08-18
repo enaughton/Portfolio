@@ -125,7 +125,7 @@
         },
 
         {
-            "id": "",
+            "id": "7",
             "project_name": "React Gallery App",
             "description": "A React App that uses the Flickr API to display photos with Search",
             "technologies": [
